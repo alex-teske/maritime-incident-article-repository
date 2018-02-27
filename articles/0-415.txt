@@ -1,0 +1,25 @@
+Maersk and IBM in blockchain JV
+
+JANUARY 16, 2018 by marinelog
+
+A.P. Moller - Maersk and IBM say they intend to establish a joint venture to provide more efficient and secure methods for conducting global trade by using blockchain technology. The new JV company will aim to offer a jointly developed global trade digitization platform built on open standards and designed for use by the entire global shipping ecosystem.
+
+The new company will address the need to provide more transparency and simplicity in the movement of goods across borders and trading zones.
+
+A distributed ledger technology, blockchain establishes a shared, immutable record of all the transactions that take place within a network and then enables permissioned parties access to trusted data in real time. By applying the technology to digitize global trade processes, a new form of command and consent can be introduced into the flow of information, empowering multiple trading partners to collaborate and establishing a single shared view of a transaction without compromising details, privacy or confidentiality.
+
+The new company initially plans to commercialize two core capabilities aimed at digitizing the global supply chain from end-to-end:
+
+A shipping information pipeline will provide end-to-end supply chain visibility to enable all actors involved in managing a supply chain to securely and seamlessly exchange information about shipment events in real time.
+
+Paperless Trade will digitize and automate paperwork filings by enabling end-users to securely submit, validate and approve documents across organizational boundaries, ultimately helping to reduce the time and cost for clearance and cargo movement. Blockchain-based smart contracts ensure all required approvals are in place, helping speed up approvals and reducing mistakes.
+
+On regulatory clearance, solutions from the joint venture are expected to become available within six months.
+
+The new company will be headquartered in the New York metropolitan area.
+
+"This new company marks a milestone in our strategic efforts to drive the digitization of global trade. The potential from offering a neutral, open digital platform for safe and easy ways of exchanging information is huge, and all players across the supply chain stand to benefit," said Vincent Clerc, chief commercial officer at Maersk and future chairman of the board of the new joint venture. "By joining our knowledge of trade with IBM's capabilities in blockchain and enterprise technology, we are confident this new company can make a real difference in shaping the future of global trade."
+
+"The major advances IBM has made in blockchain have shown that the technology can foster new business models and play an important role in how the world works by building smarter businesses," said Bridget van Kralingen, senior vice president, IBM Global Industries, Solutions and Blockchain. "Our joint venture with Maersk means we can now speed adoption of this exciting technology with the millions of organizations who play vital roles in one of the most complex and important networks in the world, the global supply chain. We believe blockchain will now emerge in this market as the leading way companies seize new untapped economic opportunities."
+
+Maersk and IBM have named Michael J. White, former president of Maersk Line in North America, as CEO of the new company

@@ -1,0 +1,37 @@
+Hydrogen-Powered Ferry Christened
+
+By MarEx 2017-12-02 01:48:13
+
+Antwerp maritime group CMB has christened the hydrogen-powered catamaran ferry Hydroville in Antwerp.
+
+The Hydroville is the world’s first accredited passenger vessel powered by hydrogen in a diesel engine, and is a pilot project for the use of hydrogen technology on large, oceangoing ships. 
+
+Hydrogen can be extracted from the environment (e.g. from water) relatively simply, and does not release any CO2, atmospheric particulate matter or sulfur oxides when it is combusted. The company opted for combustion engines because it says batteries or fuel cells are less suitable for heavy transport. The cost and weight of batteries, plus the time needed to charge them, is problematic, says CMB. Fuel cells offer more possibilities, but their high cost makes them less suitable for large-scale commercial transport.  
+
+Hydrogen is a promising option for shipping because of its high ratio between transported weight and average mileage per day/trip, which are approximately 6,000 tons and 750 kilometers (466 miles) per trip, says CMB. Hydrogen is odorless, colorless and tasteless, but the use of specific sensors means the detection of leakages is not a problem.
+
+The Hydroville is fitted with 16 seats that can be set up in three different configurations. Besides the commuter configuration, they can also be set up for meetings, with all the seats placed around a large central table. Also, in the cinema configuration, all the seats face a flat-screen TV for films or presentations. There is an outdoor passenger deck at the stern.
+
+Hydroville will commute daily between Kruibeke and Antwerp to provide CMB employees with efficient, environmentally-friendly transport to and from the office. The vessel will also function as a base for demonstrating the use of hydrogen in shipping and will be sent out to attend events all around Europe in this context. The vessel can also be used for excursions to the wind farms off the Belgian coast in holiday periods.
+
+The next project planned is to equip CMB's 1,900 TEU ice-class feeder container ship with a hydrogen-powered auxiliary engine.
+
+There is already considerable know-how about hydrogen present in and around Antwerp, says CMB, and the Hydroville project aims to consolidate and further develop this expertise, turning Antwerp into a hydrogen knowledge center.
+
+Pioneering hydrogen projects have already been undertaken. In 2008, the Alsterwasser was the first commercial inland passenger vessel to use hydrogen fuel cell propulsion, and in 2015, a marine fuel cell generator began being tested by Sandia National Laboratories. This generator integrates hydrogen storage, Proton Exchange Membrane fuel cell power generation and power inverter equipment that is able to power up to 10 reefers with a total rated output of 100 kW at 240-volt AC.
+
+DNV GL's hydrogen-fueled container feeder vessel concept called Zero is envisioned as a zero-emissions ship which includes fuel cell systems, battery systems and liquid hydrogen storage tanks.
+
+Hydroville - general specifications
+
+Length: 14m (46ft)
+Width: 4.2m (14ft)
+Maximum depth: 0.65m (2.1ft)
+Maximum water displacement: 14 tons
+Empty weight: 12 tons
+Propulsion: two dual fuel combustion engines (H2ICED) with a total capacity of 441kW
+Fuel: 12 hydrogen tanks (205 liters @ 200 bars) and two diesel tanks (2 x 265 liters) as ignition fuel and backup fuel
+Maximum speed: 27 knots
+Cruising speed: 22 knots
+Capacity: 16 passengers + two crew members
+

@@ -1,0 +1,13 @@
+First Class-Approved 3D Printed Ship's Propeller Unveiled
+
+By MarEx 2017-12-01 16:33:10
+
+Following a rigorous testing process, verified by Bureau Veritas, the world’s first class-approved 3D printed ship’s propeller, the WAAMpeller, has been unveiled at Damen Shipyard Group’s headquarters in the Netherlands. 
+
+The project involves collaboration between RAMLAB, Promarin, Autodesk, Bureau Veritas and Damen. The consortium developed the world’s first 3D printed ship’s propeller seven months ago. Promarin provided the design of the triple-blade propeller. The Port of Rotterdam’s RAMLAB (Rotterdam Additive Manufacturing LAB) carried out fabrication using Wire Arc Additive Manufacturing (WAAM) techniques, supported by Autodesk’s expertise in software, robotics and additive manufacturing. 
+
+Damen provided Research and Development resources in addition to one of its Stan Tug 1606 vessels for operational testing purposes. Bureau Veritas’ role was to verify the entire development, production and testing process.
+
+The consortium reached its first milestone in August with the completion of the first WAAMpeller prototype. “Production of the second WAAMpeller was greatly improved because we had learned a lot from producing the prototype,” says Vincent Wegener, Managing Director RAMLAB. “This mainly concerned the hardware/software interaction because, when laying down 298 layers of Nickel Aluminium Bronze alloy, it is important to have a tight control on all process parameters.”
+
+With the second WAAMpeller complete, the project then progressed to the testing stage, the first phase of which saw the WAAMpeller installed on a Damen Stan Tug 1606. The testing program included bollard pull and crash stop testing in addition to speed trials.

@@ -1,0 +1,14 @@
+Automation at E.U. Border Control to Boost Security and Speed
+
+By MarEx 2017-11-30 19:53:46
+
+Passenger self-service at border control is a growing trend at Europe’s external frontiers, but security risks and efficiency pressures are being highlighted as the number of passengers rises. In response, VTT Technical Research Centre of Finland and its partners have developed a set of best practices for automated border control as part of the international FastPass project. 
+
+Automation is expected to bring security, speed, cost-effectiveness and reliability, with harmonized solutions providing faster border checks and shorter waiting times for passengers. Technologies were developed in different areas including biometrics, video surveillance and passport scanning and were integrated in a modular way, resulting in a next generation eGate.
+
+Next-generation sensor development and novel software meet the challenges of on-the-move biometric identification, speed, costs, image quality, reduced intrusiveness and counter spoofing. FastPass has developed modules that protect against attacks both on identity documents and biometrics, such as detection of counterfeit documents, face or finger spoofing, attacks with mobile devices and piggybacking in gates.
+
+The automated border control systems developed through the project will serve as a general model for future Automated Border Control solutions around the world, says VTT. They will also provide a model for the technical and operational integration and compatibility of future systems. The solutions are ethically sustainable and respect privacy, says VTT, and have been tested in various operating environments at airports, on cruise ships and for passenger cars at land borders. 
+
+In addition to VTT, participants included the Border and Coast Guard Academy, Finavia Corporation, Mirasys Oy, Deltabit Oy and the University of Tampere. As well as Finland, the group of 27 partners includes participants from Austria, Germany, Belgium, the United Kingdom, Poland, Greece and Latvia.
+

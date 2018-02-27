@@ -1,0 +1,28 @@
+Canadian Coast Guard picks Furuno for new SAR vessel class
+
+JANUARY 9, 2018  by marinelog
+
+The Canadian Coast Guard has selected Furuno to outfit its new Bay class search and rescue vessels.
+
+The 55-foot CCGS Pennant Bay and CCGS Baie De Plaisance are the first of twelve hulls ordered by the CCG, with an option for six more.
+
+CCGS Pennant Bay was built by Hike Metal Products in Wheatley, Ontario, while Baie De Plaisance was built by shipbuilder Chantier-Naval Forillon, Inc. in Gaspe, Quebec.
+
+These new Bay class vessels, all named for Canadian bays, have been commissioned under Canada's Federal Infrastructure Initiative and the 2016-17 Fleet Renewal Plan.
+
+The vessel's new Furuno electronics, including a multi-station NavNet TZtouch network with radar and depth sounder, will assist the CCG in its mission of keeping Canadians and Canadian waterways safe.
+
+At the heart of the network of Furuno electronics in the new vessels are dual NavNet TZtouch Black Box Processors (TZTBB's) and 19" touch screen displays, supported by a dedicated 14" NavNet TZtouch (TZT14), at the upper helm.
+
+NavNet TZtouch offers the capable, proven navigation system the CCG needed, while also delivering the ability to integrate the best peripheral devices available to help accomplish mission objectives. Dual X-band radars are accessible from all TZtouch workstations, and include the solid state DRS4DNXT, Furuno's new 24" Doppler Radome with Target analyzer and fast target tracking, along with the DRS6AX, a 6 kW open array radar from Furuno's recently expanded X-class line. Together, these radars deliver exceptional target detection and clarity, along with impressive short-range detection and a range of up to 96 nautical miles.
+
+The new SAR ships are controlled by the integrated NavPilot series adaptive autopilot, the NavPilot 700 at the lower helm, and the color NavPilot 711C at the upper helm.
+
+Furuno's NavPilot is referred to as a "self-learning" autopilot due to its ability to improve the vessels handling by recording information about its characteristics throughout each voyage.
+
+Supporting the Furuno navigation network are several devices and sensors, including the DFF1 1kW depth sounder and DT800 depth sensor, providing redundancy in depth sensing and a detailed picture of the water column beneath the hull. The RD33 digital data display provides a selection of important navigation data with multiple preset data sets to choose from, as well as custom display modes to show important information required for the mission at hand.
+
+Additionally, FLIR M-Series thermal camera integration is achieved on these systems with the simple interface built-in to every display and processor in the NavNet TZtouch network. The camera's advanced thermal imaging will assist in the vessel's search and rescue mission, allowing the operator to see more, and farther than ever before. The camera can be controlled from any display, and can lock on to a specific target or target location with a simple touch of the display.
+
+The vessels' NMEA2000 network allows for easy future expansion, as expansion ports are built in to the network at pre-determined, logical locations for additional NMEA2000 peripheral devices to be added.
+

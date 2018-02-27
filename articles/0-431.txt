@@ -1,0 +1,27 @@
+Membrane fuel tanks may make LNG viable for more ships
+
+JANUARY 10, 2017 by marinelog
+
+Aiming to make liquefied natural gas a viable fuel for a larger range of vessels, ship design specialist Deltamarin and LNG containment specialist Gaztransport & Technigaz (GTT) have been studying the use of membrane-type LNG fuel tanks on cargo and passenger vessels.
+
+Deltamarin’s references include various vessels with LNG capabilities, with a C-type tank being the most common solution for fuel storage. However, when the desired range, autonomy or ship size increase, other tank technologies may become more viable for LNG fuel storage, including GTT's membrane-type tank.
+
+In close cooperation with GTT, Deltamarin has created a portfolio of LNG fueled cargo and passenger vessels that use membrane tanks to save valuable cargo space compared with cylindrical-type LNG tanks, enabling the use of LNG for long ocean voyages.
+
+The portfolio includes a container vessel, a pure car and truck carrier (PCTC) and a cruise ship. During the development project, each of the vessels was equipped with a modularized GTT membrane tank type solution, which can be adjusted in size from 1,000 to 5,000 cu.m, depending on the vessel. Either one or multiple tanks can be integrated into the vessel. The final fuel capacity is a trade-off between desired cargo capacity and bunkering intervals.
+
+As an example, a containership with a 2,500 cu.m tank offers an autonomy time of 22 days or can reach 10,000 nautical miles. These figures ensure that most intra-Asian, intra-European or intra-American trade loops can be sailed in just one bunkering operation. Other sizes offering the same volume efficiency but sacrificing less cargo space are available, for example 1,000 cu.m, 1,500 cu.m or 2,000 cu.m/ Similar scalable solutions exist for the PCTC and the cruise ship.
+
+On average, calculations during the development project showed that an optimized bi-lobe C-type tank solution can provide only approximately 60% of the LNG capacity provided by membrane technology in the same space.
+
+Does this all make sense financially? According to Deltamarin’s calculations, in many cases it does. A financial scenario calculation was carried out with the following input parameters in which distillates (MGO) has been defined as a reference level:
+
+Case vessel: 8,000 CEU PCTC
+Required LNG endurance: 15,000 nm
+Operation profile: 5 trips/year (Asia – Europe route)
+Other alternatives: Use of MGO, HFO + scrubber, LNG Type-C tank
+Fuel price scenario: MGO 600 $/tonne
+                             HFO 400 $/tonne
+                             LNG 350 $/tonne
+Price for CEU slot per voyage: $800
+

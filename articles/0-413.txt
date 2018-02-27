@@ -1,0 +1,18 @@
+Are EALs linked to stern tube bearing failures?
+
+JANUARY 16, 2018 by marinelog
+
+Classification society DNV GL has launched a new joint development project (JDP) to test the potential influence of Environmentally Acceptable Lubricants (EALs) on failures in stern tube bearings.
+
+The JDP is being undertaken in cooperation with marine insurers the Swedish Club, Norwegian Hull Club, Gard and Skuld and will see DNV GL oversee detailed laboratory testing of EALs by Leonardo Testing Services Ltd. at the University of Sheffield in the U.K.
+
+The JDP has been prompted by an increase in stern tube bearing failures over the last few years. This coincides not only with the increased use of EALs after the introduction of regulations requiring their use in commercial vessels trading in U.S. waters in 2013, but also with the introduction of new propulsion system designs, such as single stern tube bearing installations and larger and heavier propellers operating at lower RPM.
+
+"Very few studies have been conducted to compare the lubrication performance of EALs with that of traditional mineral oils in stern tube applications,'' says Øystein Åsheim Alnes, Principal engineer at DNV GL. "With this new study we hope to gain a better understanding of factors influencing the lubrication performance of EALs."
+
+The test program will investigate such aspects as hydrodynamic oil film formation, oil film thickness under varying loads and temperatures, and potential shear thinning effects at high shear rates. State-of-the-art non-invasive ultrasonic techniques developed by the University of Sheffield will be used to examine lubricant film behaviour in real-time.
+
+"DNV GL supports solutions that can reduce the environmental impact of the maritime industry. Our aim in this study is to undertake a first-hand assessment of the performance of EALs in order to guide the further development of the DNV GL Rules," says Alnes.
+
+The first phase of testing will be completed in the first quarter of 2018, with the results scheduled for publication later in the year.
+

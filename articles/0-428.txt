@@ -1,0 +1,16 @@
+Bourbon partners with BV on digitalization and cyber security
+
+JANUARY 11, 2018 by marinelog
+
+Offshore services giant Bourbon and classification society Bureau Veritas have signed a strategic partnership agreement to develop and deploy automation and real time monitoring fleet applications and to develop digital technologies, while mitigating cyber risks.
+
+The first application of the partnership will be real-time verification of the dynamic positioning (DP) operations of the Bourbon fleet.
+
+A pilot project has been implemented on the Bourbon Explorer 508 operating in Trinidad waters. Developed with Kongsberg Maritime, already a strategic partner with Bourbon, it is certified by Bureau Veritas. Data collected from the DP system drives the development of novel decision-making and verification applications for both offshore crew and onshore support teams.
+
+Another vital element of the project is addressing cyber security threats. Through global partnership with Bureau Veritas, APSYS, an Airbus company specialized in product security, is helping identify and mitigate risks linked to data collection and communication between Bourbon's vessels and onshore infrastructure. Based on this risk assessment relying on best practices from APSYS's aerospace experience, Bureau Veritas is able to issue cyber security certification on products and class notations for ships meeting global industry security standards.
+
+"We have decided to innovate with Bureau Veritas in the way we operate vessels in order to bring a response to this new cycle focused on operational excellence at optimum cost. Streamlining work organization onboard vessels, this project will have a significant positive impact on our operations. In this digital era, we also have a common will to deploy innovative technological solutions offering tangible benefits to our customers," says Gaël Bodénès, CEO ofBourbon Corporation.
+
+"At Bureau Veritas, we know the value of strategic partnerships such as this. They are a key to supporting our Marine & Offshore clients like Bourbon in integratinge new technologies while mitigating the risks of our increasingly digital and connected world," says Jean-François Segretain, Technical Director, Bureau Veritas Marine & Offshore.
+

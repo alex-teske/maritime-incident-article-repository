@@ -1,0 +1,24 @@
+Teekay's next gen shuttle tankers will burn LNG and recovered VOCs
+
+JANUARY 9, 2018 by marinelog
+
+Four next generation shuttle tankers on order for Teekay at shipbuilder Samsung Heavy Industries (SHI) feature a broad range of Wärtsilä's latest technology innovations that are expected to reduce annual emissions of CO2 equivalents by more than 40 percent, compared to conventional shuttle tankers.
+
+In addition to operating on Liquefied Natural Gas (LNG) as the primary fuel, the ships' dual-fuel engines will also be able to run on a mixture of LNG and recovered Volatile Organic Compounds (VOC) – the gas evaporating from the oil cargo tanks during loading.
+
+By utilizing the recovered VOC as fuel rather than venting it to the atmosphere, the harmful emissions will be eliminated and the ships' bunker needs will be significantly reduced.
+
+The concept also means that NOx emissions from the engines' exhaust will be reduced by more than 80 percent, SOx emissions will be almost entirely eliminated, while particulate emissions will be reduced by more than 95 percent.
+
+These environmental benefits are matched by equally important economic advantages, with a significant reduction in fuel consumption compared to conventional solutions.
+
+"Together with Teekay, we have developed a concept that takes the shuttle tanker sector into a new era, and which is further evidence of Wärtsilä's ability to transform shipping by developing and utilizing the very latest technologies," says Roger Holm, President, Wärtsilä Marine Solutions. "These ships will have tremendous operational flexibility with unmatched maneuevring capability, and will achieve what all operators are striving for today, namely optimal economic and environmental performance."
+
+"This new shuttle tanker design will set new standards for both fuel consumption and CO2 emissions," says Terje Rusdal, Project Manager at Teekay.
+
+Among the many innovative features of the design is the Wärtsilä Hybrid system, on which the power distribution will be based. The Hybrid system uses batteries for fuel savings, peak load shaving, and added overall system redundancy. This directly impacts the main machinery, resulting in fewer running hours with correspondingly lower maintenance time and costs.
+
+Wärtsilä's broad scope of suppy also includes the full electric and automation system, which includes the Wärtsilä Low Loss Hybrid (LLH) system and batteries, the Wärtsilä LNGPac fuel storage and supply system, the Wärtsilä VOC system for recovering and liquefying the VOC with a storage and supply system, Wärtsilä 34DF dual fuel gas engines, the fuel mixing system with liquid VOC and LNG as the main fuel for the engine, gas turbines to handle the surplus gas, Wärtsilä cargo and ballast pumps and a Wärtsilä inert gas generator.
+
+Also included in Wärtsilä's integrated solution for this vessel concept is Eniram's Vessel Performance Management system. Eniram, a Wärtsilä company, will provide a data collection platform having the capabilities to optimize the vessel's operations, while also providing the owners with analytics and reporting. The Performance Management system ensures that the full potential of the vessel as well as the fleet, will be utilized.
+

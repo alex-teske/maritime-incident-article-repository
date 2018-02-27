@@ -1,0 +1,20 @@
+Methanol fuel cells power German excursion vessel
+
+JANUARY 17, 2017 by marinelog
+
+Now operating on Lake Baldeney in Essen, the excursion boat MS Innogy is Germany's first vessel powered by methanol power cells and is the result of a joint project between the city of Essen and energy company Innogy.
+
+The vessel was delivered to operator Weisse Flotte Baldeney last August after conversion at the Lux Werft shipyard in Niederkassel and now has a 35 kW methanol fuel cell system developed and manufactured by Denmark's SerEnergy and consisting of seven 5 kW modules integrated in one rack.
+
+According to SerEnergy, the vessel's energy system is a hybrid constellation consisting of a fuel cell system and a battery pack, where the fuel cells work as a range extender allowing the vessel to sail for an entire day without fueling. Using waste heat from the fuel cell to drive the methanol reformation process leads to a high electrical efficiency between 40-50%.
+
+The MS Innogy uses Siemens control, energy and drive technology that makes it possible for the boat's day-to-day operation to be completely emissions-free.
+
+Plans for the MS Innogy were drawn up in 3D using Siemens PLM Software's NX CAD (Computer Aided Design) software. Many of the products used in the vessel come from the Siemens drives and controls portfolio which all communicate with each other via the Profinet bus system.
+
+The Simatic S7-1500 controller, in combination with the ET200SP distributed I/O system, provides automation and control of the various operating modes (charging, electric operation and diesel/electric operation) and manages the energy sources (batteries, fuel cells or diesel generator). A Simatic HMI (Human Machine Interface) panel ensures the skipper has complete control of his ship at a single glance.
+
+All the electrical output components are connected to a joint DC intermediate circuit which is controlled by a Sinamics DCP bidirectional DC/DC converter. This forms the link between the battery and fuel cells unit and the intermediate circuit. The Simotics 1PH8 servo motors, which are connected via Sinamics S120 frequency converters, provide guaranteed maneuverability and the necessary propulsion.
+
+A further component of this intermediate circuit is a Sinamics Active Line Module which allows MS Innogy to make use of the onboard 400 Volt electrical system. The TIA (Totally Integrated Automation) Portal ensures all the control components are efficiently and consistently engineered. Energy level readings are obtained via several Sentron PAC3200 multi-functional measuring devices from Siemens' low-voltage portfolio. Switches from the Sirius Act range of industrial controls are also used. The Sinema Remote Connect management platform and the Scalance M876-4 router provide smooth and secure remote maintenance for all the ship's systems. Both the parameterization of the converters and the preparation of the PLC (Programmable Logic Controller) software for coordinating the PLC and the energy management system on the intermediate circuit were set up to precise customer specifications.
+

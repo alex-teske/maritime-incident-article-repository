@@ -1,0 +1,36 @@
+Maersk, IBM to Set Up Blockchain JV
+
+by worldmaritimenews
+
+A.P. Moller – Maersk and IBM plan to establish a joint venture aimed at offering a global trade digitization platform by using blockchain technology.
+
+The platform will be designed for use by the entire global shipping ecosystem and address the need for greater transparency and simplicity in the movement of goods across borders and trading zones.
+
+In addition, blockchain technology is expected to minimize transport costs of goods as it is estimated that the maximum cost of the required trade documentation to process and administer these goods equals to one-fifth of the actual physical transportation costs. According to the World Economic Forum, by reducing barriers within the international supply chain, global trade could increase by nearly 15 percent.
+
+As explained, by applying the technology to digitize global trade processes, a new form of command and consent can be introduced into the flow of information, empowering multiple trading partners to collaborate and establishing a single shared view of a transaction without compromising details, privacy or confidentiality.
+
+Maersk and IBM said that aside to the use of blockchain technology to power the new platform, they would employ other cloud-based open source technologies including artificial intelligence (AI), IoT and analytics, in order to help companies move and track goods digitally across international borders.
+
+“This new company marks a milestone in our strategic efforts to drive the digitization of global trade. The potential from offering a neutral, open digital platform for safe and easy ways of exchanging information is huge, and all players across the supply chain stand to benefit,” said Vincent Clerc, Chief Commercial Officer at Maersk and future chairman of the board of the new joint venture.
+
+“The major advances IBM has made in blockchain have shown that the technology can foster new business models and play an important role in how the world works by building smarter businesses,” said Bridget van Kralingen, senior vice president, IBM Global Industries, Solutions and Blockchain.
+
+The JV builds upon the cooperation IBM and Maersk began in June 2016. Since then, multiple parties have piloted the platform including DuPont, Dow Chemical, Tetra Pak, Port Houston, Rotterdam Port Community System Portbase, the Customs Administration of the Netherlands, U.S. Customs and Border Protection.
+
+The commercial stage of the cooperation is expected to scale these solutions to a broader group of global corporations.
+
+Namely, global terminal operators APM Terminals and PSA International will use the platform to enrich port collaboration and improve terminal planning. With support from Guangdong Inspection and Quarantine Bureau by connecting to its Global Quality Traceability System for import and export goods, the platform can also link users to important trade corridors in and out of China.
+
+Maersk and IBM are establishing an advisory board of industry experts to help further shape the platform and services, provide guidance and feedback on important industry factors, and drive open standards.
+
+Michael J. White, former president of Maersk Line in North America, has been appointed CEO of the new company.
+
+The new company, which will be set up in New York, initially plans to commercialize two core capabilities:
+
+– A shipping information pipeline which will provide end-to-end supply chain visibility to enable all actors involved in managing a supply chain to securely and seamlessly exchange information about shipment events in real time.
+
+– Paperless Trade, which will digitize and automate paperwork filings by enabling end-users to securely submit, validate and approve documents across organizational boundaries, ultimately helping to reduce the time and cost for clearance and cargo movement.
+
+Upon regulatory clearance, solutions from the joint venture are expected to become available within six months.
+

@@ -1,0 +1,29 @@
+Maersk and IBM Expand Blockchain Offerings
+
+BY MAREX 2018-01-16 04:34:19
+
+A.P. Moller - Maersk and IBM have announced their intent to establish a joint venture to offer blockchain technology to the global shipping industry. The jointly developed platform will be built on open standards and will address the need to provide more transparency and simplicity in the movement of goods across borders and trading zones.
+
+More than $4 trillion in goods are shipped each year, and the maximum cost of the required trade documentation to process and administer many of these goods is estimated to reach one-fifth of the actual physical transportation costs. According to The World Economic Forum, by reducing barriers within the international supply chain, global trade could increase by nearly 15 percent.
+
+Blockchain technology is ideally suited to large networks of disparate partners, says Maersk and IBM. A distributed ledger technology, blockchain establishes a shared, immutable record of all the transactions that take place within a network and then enables permissioned parties access to trusted data in real time. By applying the technology to digitize global trade processes, a new form of command and consent can be introduced into the flow of information, empowering multiple trading partners to collaborate and establishing a single shared view of a transaction without compromising details, privacy or confidentiality.
+
+Maersk and IBM will use blockchain technology to power the new platform, as well as employ other cloud-based open source technologies including artificial intelligence, the internet of things and analytics, delivered via IBM Services, in order to help companies move and track goods digitally across international borders. The companies expect manufacturers, shipping lines, freight forwarders, port and terminal operators and customs authorities to all benefit from the new technologies - and ultimately consumers will also.
+
+
+
+IBM and Maersk began a collaboration in June 2016 to build new blockchain and cloud-based technologies. Since then, multiple parties have piloted the platform including DuPont, Dow Chemical, Tetra Pak, Port Houston, Rotterdam Port Community System Portbase, the Customs Administration of the Netherlands, U.S. Customs and Border Protection.
+
+The joint venture will now enable IBM and Maersk to commercialize and scale their solutions to a broader group of global corporations. Companies such as General Motors, Procter and Gamble and Agility Logistics have already expressed interest. Additional customs and government authorities, including Singapore Customs and Peruvian Customs, will explore collaborating with the platform to facilitate trade flows and enhance supply chain security. The global terminal operators APM Terminals and PSA International will use the platform to enrich port collaboration and improve terminal planning. With support from Guangdong Inspection and Quarantine Bureau by connecting to its Global Quality Traceability System for import and export goods, the platform will also be able to link users to important trade corridors in and out of China.
+
+To address the specific needs of the industry, Maersk and IBM are establishing an advisory board of industry experts to help further shape the platform and services, provide guidance and feedback on important industry factors, and drive open standards. Maersk and IBM have named Michael J. White, former president of Maersk Line in North America, as CEO of the new company. 
+
+The new company initially plans to commercialize two core capabilities aimed at digitizing the global supply chain from end-to-end:
+
+•  A shipping information pipeline will provide end-to-end supply chain visibility to enable all actors involved in managing a supply chain to securely and seamlessly exchange information about shipment events in real time.
+
+•  Paperless Trade will digitize and automate paperwork filings by enabling end-users to securely submit, validate and approve documents across organizational boundaries, ultimately helping to reduce the time and cost for clearance and cargo movement. Blockchain-based smart contracts ensure all required approvals are in place, helping speed up approvals and reducing mistakes.
+
+Upon regulatory clearance, solutions from the joint venture are expected to become available within six months. The new company will be headquartered in the New York metropolitan area.
+
+The platform is built on IBM Blockchain technology, which is provided through the IBM Cloud and powered by Hyperledger Fabric 1.0, a blockchain framework and one of the Hyperledger projects hosted by the Linux Foundation.

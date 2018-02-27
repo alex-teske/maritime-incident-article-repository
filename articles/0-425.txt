@@ -1,0 +1,14 @@
+New ABS software release includes comprehensive compliance solution
+
+JANUARY 11, 2018 by marinelog
+
+Classification society ABS has announced a major release of its Nautical Systems (NS) Enterprise fleet management software that includes NS Insight, a new business intelligence module. The NS solution provides capabilities to plan, execute and document all compliance work processes. The release includes a new cloud-based NS Voyage Manager, the latest mobile applications, an expanded NS Autologger, and enhancements to NS Health, Safety, Quality, and Environmental (HSQE) Manager.
+
+"Effectively managing compliance is a core business objective for our clients," said ABS Chief Digital Officer, Howard Fireman. "This release offers the industry's most comprehensive compliance solution, which includes EU MRV and USCG Subchapter M, as well as readiness for IMO DCS – giving our clients an easier and more efficient way to manage ever-changing compliance requirements."
+
+NS Insight, the new business intelligence module, exposes hidden value in existing data; analytics provide visibility into safety, operational and financial trends. Vessel managers can create KPIs, generate quarterly management reports, complete root cause analyses, and gain key insights on vessel operations across an entire fleet.
+
+"We continue to innovate with mobile and cloud-based solutions to give clients greater access to timely information." said ABS Nautical Systems Vice President Stephen Schwarz. "NS Insight lets our clients leverage data captured for compliance reasons, to gain operational insights and improve performance. Mobile applications facilitate daily onboard vessel operations, and ensure accurate data capture for compliance and decision-making on shore."
+
+Cloud-based applications enable rapid deployment of software, which means clients always have the latest version to ensure compliance with new regulations. New NS mobile applications were developed to support specific onboard crew and manager work functions and can be used both on- and offline on iOS and Android devices.
+

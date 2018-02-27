@@ -1,0 +1,22 @@
+Unmanned Ships: Complexity in Jurisdictions
+
+BY ALLAN MCDOUGALL 2018-01-15 16:57:26
+
+In this fifth segment dealing with autonomous shipping, we step back from the fully autonomous ship (i.e. one directed solely by electronics and with no human inputs) to those that are directed remotely. I was recently asked whether I believed that this approach would erode the authority of the master of the vessel. While I can only respond with an answer based on my beliefs (I am not a lawyer, nor do I profess to being one), I believe that the answer in this case is “not really.” What has changed, however, involves the complexity of the risks that surround the master, particularly in the question of jurisdiction.
+
+The concept here is that the master of the vessel (as a vessel needs a master still) would be in some control space on shore and able to direct the vessel at sea. Decisions on how the vessel is likely to respond to its environment, operational needs and local events still must be made.
+
+That the master of the vessel has this authority is beyond debate. It goes back to Rhodian Law (i.e. pre-Roman Empire), later in the laws of Oleron and Wisby. For those who prefer more recent examples, one can find allusion to the authority of the master’s ability to exercise judgement throughout the United Nations Convention on the Law of the Seas (such as Article 98) and later in the ISPS Code.
+
+While the master’s authority may be sacrosanct, there is a sense of complexity with respect to who the Master may have to answer to should the ship be directed in such a way that an “offence” occurs. Normally the master can be found on the vessel and, as a result, resides within the jurisdiction of the vessel’s flag state. With the master being remote, however, the state in which the master is found (physically) can apply the territorial aspect of law that applies to any crime committed within its territory. This does not begin to address countries that have extra-territorial laws that may affect the master and the master’s decisions.
+
+While this may not be a cybercrime in the context of the Budapest Convention (or something similar), there is still the spirit of that convention and the Suppression of Unlawful Acts convention that may add further complexity. These two conventions require nations to address certain offenses defined in those conventions in their national laws, to ensure that appropriate legal actions are taken against offenders and to aid through the extradition of persons.
+
+For the maritime company, there are two areas that may benefit from some clarification. The first of these involves clearly delineating the limits of authority and accountability applicable to the master. This is important not only to the master, but also to those that provide insurance coverage to companies covering the actions of the master. The second involves there being a clear understanding about the applicability of actions (detainment, prosecution, extradition, etc.) that could apply where the actions of the vessel could lead to these kinds of actions.
+
+For the maritime executive (shipping companies and insurers), this is another set of questions that should be pushed into consultative processes with the regulators and international bodies (preferably by legal representatives) so that there is clear guidance and the stability needed to manage risks in this increasingly complex area.
+
+This article, one of several, is intended to promote thoughtful consideration of future risks.  It is not to express anything that should be construed as a government policy or approach, nor is it an offer of legal advice. 
+
+Allan McDougall BA BMASc PCIP CMAS CISSP CPP PSP CMSP is the chief learning officer of the IAMSP and an executive vice president of Knowledge Advancement Solutions based in Ottawa, Canada. In addition to his military experience, he has served as a security advisor with Canada’s Coast Guard, Department of Fisheries and Oceans and Canada Border Services Agency. He was also previously a senior inspector with Transport Canada’s Marine Security Operations and has coauthored several works associated with infrastructure protection and emergency preparedness.
+

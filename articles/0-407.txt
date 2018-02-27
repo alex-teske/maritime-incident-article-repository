@@ -1,0 +1,24 @@
+MAN: Part-Load Optimization pays off for small bore four-strokes
+
+JANUARY 17, 2017 by marinelog
+
+MAN Diesel & Turbo reports that it has now received 180 orders for its Part-Load Optimization initiative, a tuning method that optimizes fuel-oil consumption during the part-load operation of four-stroke, small-bore MAN auxiliary engines.
+
+Finn Fjeldhøj – Head of Small-Bore, Four-Stroke Engineering – MAN Diesel & Turbo, said: "Part-Load Optimization works on the principle that fuel consumption is reduced at low and part load at the expense of a higher fuel consumption in the high-load range, without exceeding the IMO NOx limit. We can deliver new engines pre-optimized, or retrofit as necessary. Both Part-Load Optimization solutions have proved popular with the market to date, as evidenced by this strong demand."
+
+Part-Load Optimization helps shipowners to maintain their auxiliary engines in good working order while reducing fuel-oil costs. It is recommended for gensets that often run at part-loads below 75% MCR (especially the load range from approximately 40 - 65% MCR) and optimizes engine performance at 60 - 65% MCR.
+
+It is available for all new Holeby engines and can be retrofitted on all existing engines.
+
+The tailor-made retrofit kits cover all components, qualified service fitters and calculations of cost benefit; engine tuning can be executed with a charge-air blow-off valve or waste gate.
+
+partloadtablePart-Load Optimization delivers fuel-oil savings of, typically, up to 5 g/kWh depending on engine type and load point, and improves the condition of key engine components due to its superior combustion process.
+
+The same, relative fuel-consumption savings also apply when applied in combination with an SCR-system for IMO Tier III compliance.
+
+Since its introduction, Part-Load Optimization has found favor across a broad spectrum of shipping applications, especially medium- and long-range tankers, and feeder container vessels.
+
+The MAN L23/30H GenSet has proved a popular candidate for Part-Load Optimization, typically @ 65% MCR using the charge-air blow-off valve tuning method.
+
+The Part-Load Optimization fuel-saving principle
+

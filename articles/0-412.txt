@@ -1,0 +1,24 @@
+Giant COSCO box ship achieves a cyber certification first
+
+JANUARY 16, 2018 by marinelog
+
+Delivered today by shipbuilder NACKS (Nantong COSCO KHI Ship Engineering Co, Ltd.) to China's COSCO Shipping Lines, the 20,000 TEU MV COSCO Shipping Aries is the first containership to have an energy management system that has been cyber-certified by classification society Lloyd's Register.
+
+"She is not only one of the largest containerships in the world, but also a ship with high cyber functions," says Shi Yongxin, COSCO Shipping Container Line Co., Ltd, Safety & Technology Department, General Manager."We have always attached great importance to a cyber enabled fleet in order to enhance fleet management, reduce energy consumption and control emissions. In the field of cyber enabled ships, LR has great research findings and well established requirements. During the construction of the MV COSCO Shipping Aries, we are very fortunate to have the great support from LR and finally, successfully obtain the first AL3 level descriptive note for ultra large containership in the world, this ensure our goal is successfully achieved."
+
+The ship complies with the revised version of LR's Cyber-enabled ships ShipRight procedure, issued in December 2017 and its energy management system has received LR's cyber-enabled ship (CES) descriptive note "Cyber AL3 SECURE PERFORM."
+
+The Accessibility Level (AL) refers to the level of autonomous/remote access to a system, ranging from the information-only AL0 (no access) and AL1 (manual access) through AL2 (cyber access for remote or autonomous monitoring) up to the highest AL5 (autonomous monitoring and control, with no onboard permission required or override possible).
+
+AL3 is defined by LR as "Cyber access for autonomous/remote monitoring and control (onboard permission is required and onboard override is possible)."
+
+According to LR, "cyber-enabled systems" are considered to be systems installed onboard ships that would conventionally be controlled by the ship's crew but which, through recent advances in IT and Operational Technology (OT), now include the capability to be monitored, or monitored and controlled, either remotely or autonomously with or without a crew onboard the ship.
+
+The functionality provided by cyber-enabled systems can range from simple remote monitoring with a crew onboard through to a fully autonomous vessel without a crew onboard.
+
+Consequently, as the risks can vary considerably, the assessment of cyber-enabled systems requires a risk-based approach to identify the hazards introduced by cyber-enablement and to mitigate the associated risks
+
+COSCO Shipping is now hoping to apply LR's CES descriptive notes to some of its other vessels.
+
+Nick Brown, LR Marine & Offshore Director said: "The request from COSCO to apply LR's descriptive note was made relatively late in the project, which represented quite a challenge for LR, NACKS and COSCO to complete this prior to delivery, especially with the system being AL3. However, with support from LR's global network of experts, we were able to ensure that the system could be certified in time for delivery and we are delighted to have been able to work on this innovative project."
+

@@ -1,0 +1,20 @@
+World's First Microsatellite with Synthetic-Aperture Radar Launched
+
+BY MAREX 2018-01-15 17:28:13
+
+The world's first microsatellite equipped with synthetic-aperture radar has been launched by technology start-up Iceye.
+
+Synthetic-aperture radar is a form of radar that is used to create two- or three-dimensional images of objects, such as landscapes. It uses the motion of the radar antenna over a target region to provide finer spatial resolution than conventional beam-scanning radars. 
+
+The Iceye technology aims to bring reliable high-temporal-resolution imaging to the market, and once the company's constellation is fully deployed, it will allow users to accurately image any point on Earth within only a few hours, regardless of weather or darkness. With optical cameras, remote sensing imagery can be unavailable up to 75 percent of the time due to cloud cover or darkness. Iceye uses microwave radar technology at frequencies that penetrate clouds and rain to allow imaging in all conditions. The instrument sends its own energy, so it can image independent of sunlight.
+
+By enabling economically viable microsatellite constellations, Iceye’s goal is to expand access to synthetic-aperture radar data at a cost and time efficiency that has never before been available to commercial and government entities. Data received from the constellation will be available for a wide variety of uses including monitoring changing sea ice, helping to prevent illegal fishing, in the maritime industry to follow port traffic, in the oil industry to detect oil spills or by governments to monitor illegal logging, as well as fast disaster relief.
+
+At the time of the company's start-up in 2015, Co-founder and CEO Rafal Modrzewski described a case that highlighted the value of the technology: “Just last week, we were in Greece to help the aid organizations. They are struggling to rescue the refugees crossing the bay to Lesvos in their overcrowded boats,” he said. “We brought ground-based radars to track the vessels, and they were game-changing to the rescue operation, but their range is limited. The order-to-delivery time for commercially available satellite imagery is around a week, which doesn’t help if the boats can capsize and disappear in minutes,” he said.
+
+“Governmental and military operators own and use radar satellites already,” added Pekka Laurila, co-founder and CFO. “We want to make this technology accessible to everyone at a commercially feasible cost level, which means reducing the satellite unit prices over 100-fold compared to traditional satellites. One of the ways we achieve this is by utilizing off-the-shelf mobile electronics and mass manufacturing.”
+
+This month's proof-of-concept mission was undertaken on ISRO’s PSLV-C40 rocket. The success of the launch, from Satish Dhawan Space Center in India, is Finland’s first commercial satellite. Throughout 2018, Iceye has at least two additional proof-of-concept satellite missions planned. Iceye will then launch a constellation of more than 18 synthetic-aperture radar-enabled microsatellites. 
+
+The project has been undertaken with support from the Finnish and European communities, Aalto University, Tekes and Horizon 2020.
+

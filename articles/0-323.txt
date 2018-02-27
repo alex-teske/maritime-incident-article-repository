@@ -1,0 +1,24 @@
+First Boxship with LR’s Cyber AL3 Joins Cosco Shipping
+
+by worldmaritimenews
+
+China’s Cosco Shipping Lines has taken delivery of the first ever container ship to receive a descriptive note cyber AL3 secure perform for its energy management system by Lloyd’s Register.
+
+The vessel COSCO Shipping Aries, which was handed over to its owner on January 16, was built by China’s Nantong COSCOS KHI Ship Engineering (NACKS).
+
+It is the first 20,000 TEU ultra large container ship (ULCV) built in the Chinese shipyard owned by COSCO Shipping Container Lines.
+
+“It is not only one of the largest container ships in the world, but also a ship with high cyber functions. We have always attached great importance to cyber enabled fleet in order to enhance fleet management, reduce energy consumption and control emission,” Shi Yongxin, COSCO Shipping Container Line, Safety & Technology Department, General Manager said.
+
+The ship complies with the revised version of LR’s cyber-enabled ships ShipRight procedure, issued in December 2017.
+
+The descriptive note cyber AL3 secure perform gives an accessibility level (AL) for autonomous/remote access for the system, this ranges from the information-only AL0 (no access) and AL1 (manual access) through AL2 (cyber access for remote or autonomous monitoring) up to the highest AL5 (autonomous monitoring and control, with no onboard permission required or override possible).
+
+AL3 is defined by LR as Cyber access for autonomous/remote monitoring and control (onboard permission is required and onboard override is possible).
+
+Cyber-enabled systems are considered to be systems installed onboard ships that would conventionally be controlled by the ship’s crew but which now include the capability to be monitored, or monitored and controlled, either remotely or autonomously with or without a crew onboard the ship.
+
+COSCOS said that it is now hoping to apply LR’s CES descriptive notes to some of its other vessels.
+
+Image Courtesy: Lloyd’s Register
+

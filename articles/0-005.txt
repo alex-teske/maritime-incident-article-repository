@@ -1,0 +1,20 @@
+U.S. Lab Suspends Testing of Ballast Water Systems
+
+By MarEx 2017-12-06 17:04:28
+
+The University of Maryland's Maritime Environment Resource Center (MERC) has decided to stop testing ballast water management systems, citing alleged flaws in testing standards. MERC will complete the testing for which it is currently contracted, but it will suspend all future testing for BWMS.
+
+MERC asserts that both IMO and USCG testing guidelines allow certification laboratories to ignore the larvae of zebra mussels, certain eggs and large algal cells because they do not move. Under this standard, non-moving objects may be presumed to be dead, even though other testing methods may show that these organisms are in fact alive. The center says that this and other shortfalls in the implementation of ballast water regulations are undermining policies to protect the marine environment. 
+
+“UMCES’ scientific integrity and reputation for providing advice for science-based decision making is of the utmost importance,” said UMCES Chesapeake Biological Laboratory Director Dr. Thomas Miller. “Therefore, under the current regulations, which do not significantly reduce the threat of some invasive species, MERC can no longer conduct BWMS certification testing.”
+
+MERC is part of the first U.S. Coast Guard-designated independent laboratory for BWMS testing, and it has been working on the certification of ballast water systems for years, including the formulation of test plans for half a dozen manufacturers. But Dr. Miller and Dr. Mario Tamburri, the director of MERC, assert that some of the Coast Guard type-approved BWMS systems may not meet regulatory performance standards in the real world. 
+
+"[Dr. Tamburri], who has been testing BWMS for the Coast Guard for many years, has not only confirmed that Coast Guard-certified BWMS will not be capable of routinely meeting allowable ballast water discharge standards, but has gone to great lengths to persuade the Coast Guard that it needs to correct significant flaws in its BWMS testing and certification program," wrote Miller in an op-ed for the Bay Journal in September. He corroborated this allegation with reports from vessel operators who have used approved ballast water management systems at sea.
+
+For vessels calling American ports, any real-world shortcomings could be an issue, Miller added. The Coast Guard intends to test vessels' ballast water to ensure compliance, and "the certified BWMS [on board] must . . . be capable of routinely meeting allowable ballast water discharge standards." 
+
+Miller also called the Coast Guard to task for delays in launching its type approval process and for allegedly failing to nurture the young ballast water treatment industry. The result, he asserted, will be a temporary shortage of type-approved systems on the market, leading to an enforcement problem as the USCG attempts to require the use of equipment that cannot be manufactured and installed quickly enough.
+
+Roshanak Aryan-Nejad, the Coast Guard’s point of contact for BWMS laboratory requirements, declined to comment on MERC's allegations.
+

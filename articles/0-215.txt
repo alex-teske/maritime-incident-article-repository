@@ -1,0 +1,14 @@
+Using Lasers to Rebuild Pistons
+
+BY MAREX 2018-01-15 16:40:14
+
+On Monday, Wärtsilä announced that its service division has developed a way to recondition large bore 2-stroke engine pistons using robot-controlled lasers. The firm says that robotized laser cladding can significantly increase the service life of piston heads compared with traditional chromium layers. 
+
+"We have field-tested the new technology on container vessels, and after 15,000 running hours, the results are very promising, showing excellent running behaviour and very low piston wear rates,” says Ole Pyndt Hansen, the director of Wärtsilä's QuantiServ division. “Based on these tests, we predict that reconditioning the piston by using the new laser cladding process can almost double its lifespan”.
+
+The new reconditioning process minimizes welding, causes less thermal shock to the base material and replaces the old chromium layer’s galvanic application. In 2018, the technology will be available for customers in a number of Wärtsilä's remanufacturing workshops globally. The firm expects that it will be able to use the same process for other applications in the remanufacturing business as well.
+
+Laser cladding equipment is marketed by a number of industrial suppliers and can be used for several purposes, including additive manufacturing (3D printing). It can apply wear-resistant metal at just the locations needed without requiring the treatment of the entire part, and can be used to build up worn-down components with new material. 
+
+American engine manufacturer Cummins has also explored the use of laser metal deposition for engine repair. In collaboartion with Oak Ridge National Laboratory, Cummins has experimented with remanufacturing badly eroded cast iron cylinder heads from truck engines using the process. In aerospace, 3D printing machines built by French firm BeAM have been used for repairing airplane components for years. 
+
